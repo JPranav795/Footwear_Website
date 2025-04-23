@@ -189,7 +189,7 @@ body {
   }
   
   .product-card img {
-    max-width: 100%;
+    max-width: 100px;
     border-radius: 10px;
     filter: drop-shadow(0 3px 8px rgba(0, 0, 0, 0.3));
   }
@@ -253,7 +253,7 @@ body {
   }
   
   .gallery-image {
-    width: 100%;
+    width: 100px;
     border-radius: 10px;
     margin: 0 auto;
     display: block;
@@ -397,7 +397,7 @@ body {
     border: none;
     border-radius: 5px;
     background: #2a2a2a;
-    color: #fff;
+    color: #ffbb00;
     filter: drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3));
   }
   
