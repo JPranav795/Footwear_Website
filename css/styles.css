@@ -462,3 +462,22 @@ body {
       animation: none; 
     }
   }
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: #000000;
+  }
+  
+  .social-links a img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s;
+  }
+  
+  .social-links a:hover img {
+    transform: scale(1.2);
+  }
+  
