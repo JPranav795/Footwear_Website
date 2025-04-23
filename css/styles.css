@@ -3,7 +3,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     background: #1a1a1a;
     color: #fff;
-    background-image: url('https://i.pinimg.com/originals/03/4a/e2/034ae28c150863cd742a9a2dd6efcfb3.gif');
+    background-image: url('https://media.tenor.com/TZaIBNauQfAAAAAM/stars-galaxy.gif');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -72,7 +72,7 @@ body {
   }
   
   .hero {
-    background: url('images/hero1.jpg') center/cover no-repeat;
+    background: url('https://cdn.shopify.com/s/files/1/0223/7241/7610/files/ido-baner-full-black_2048x2048.gif?v=1596444626') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -118,7 +118,7 @@ body {
   }
   
   .hero-image:hover, .story-image:hover {
-    filter: drop-shadow(0 10px 20px rgba(0, 0, 0, 0.7));
+    filter: drop-shadow(0 10px 20px rgba(255, 204, 0, 0.7));
   }
   
   .btn {
@@ -190,6 +190,7 @@ body {
   
   .product-card img {
     max-width: 100px;
+    max-height: 100px;
     border-radius: 10px;
     filter: drop-shadow(0 3px 8px rgba(0, 0, 0, 0.3));
   }
@@ -253,7 +254,8 @@ body {
   }
   
   .gallery-image {
-    width: 100px;
+    width: 350px;
+    height: 200px;
     border-radius: 10px;
     margin: 0 auto;
     display: block;
